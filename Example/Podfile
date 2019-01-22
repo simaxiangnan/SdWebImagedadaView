@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LonggeControl_Example' do
+  pod 'LonggeControl', :path => '../'
+
+  target 'LonggeControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
