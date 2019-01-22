@@ -24,14 +24,14 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/18910690342@163.com/LonggeControl'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '18910690342@163.com' => 'lijianhoufly@163.com' }
+  s.author           = { '18910690342@163.com' => 'simaxiangnan' }
   s.source           = { :git => 'https://github.com/18910690342@163.com/LonggeControl.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'LonggeControl/Classes/**/*'
-  
+  https://upload-images.jianshu.io/upload_images/4636056-c8f3cfca589b1845.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/538
   # s.resource_bundles = {
   #   'LonggeControl' => ['LonggeControl/Assets/*.png']
   # }

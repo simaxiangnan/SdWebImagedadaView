@@ -1,0 +1,22 @@
+{
+  "name": "LonggeControl",
+  "version": "0.1.0",
+  "summary": "A short description of LonggeControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18910690342@163.com/LonggeControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18910690342@163.com": "lijianhoufly@163.com"
+  },
+  "source": {
+    "git": "https://github.com/18910690342@163.com/LonggeControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LonggeControl/Classes/**/*"
+}

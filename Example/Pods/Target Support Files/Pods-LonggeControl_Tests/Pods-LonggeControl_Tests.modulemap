@@ -1,0 +1,6 @@
+framework module Pods_LonggeControl_Tests {
+  umbrella header "Pods-LonggeControl_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

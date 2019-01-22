@@ -61,11 +61,11 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		88ECF7C8B506F14AF7A19458 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		AF5A7867F24B88BA2CB21EB5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		88ECF7C8B506F14AF7A19458 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		AF5A7867F24B88BA2CB21EB5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C3127F245D51F8CFFB47F14A /* Pods_LonggeControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LonggeControl_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF1DCF35F69F877ED9453ED5 /* Pods-LonggeControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LonggeControl_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LonggeControl_Example/Pods-LonggeControl_Example.release.xcconfig"; sourceTree = "<group>"; };
-		EDFEF471B83811EDACD094B3 /* LonggeControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LonggeControl.podspec; path = ../LonggeControl.podspec; sourceTree = "<group>"; };
+		EDFEF471B83811EDACD094B3 /* LonggeControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LonggeControl.podspec; path = ../LonggeControl.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FB4C4055B770ECAF4D778E98 /* Pods_LonggeControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LonggeControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

@@ -1,0 +1,6 @@
+framework module Pods_LonggeControl_Example {
+  umbrella header "Pods-LonggeControl_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

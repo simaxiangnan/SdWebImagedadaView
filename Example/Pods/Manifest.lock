@@ -1,0 +1,16 @@
+PODS:
+  - LonggeControl (0.1.0)
+
+DEPENDENCIES:
+  - LonggeControl (from `../`)
+
+EXTERNAL SOURCES:
+  LonggeControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LonggeControl: aa46a1be06ba47d1df4c7b981896aff10891301e
+
+PODFILE CHECKSUM: c0553be1034ce75c4b37ef20a7204e1d84ddaf0b
+
+COCOAPODS: 1.5.3
