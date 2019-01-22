@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                        TODO:  第一次提交版本啦
                        DESC
 
   s.homepage         = 'https://github.com/18910690342@163.com/LonggeControl'
